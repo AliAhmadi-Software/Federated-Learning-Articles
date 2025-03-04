@@ -6,7 +6,7 @@ This repository contains a list of papers I have read and reviewed.
 
 | Paper Title | Paper Type | Year | Citation Count | Journal | PDF Link |
 |------------|-----------|------|---------------|---------|----------|
-| [Paper Title 1](https://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com) | Conference | 2016 | 22462 | -- | [PDF](pdf-link) |
+| [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com) | Conference | 2016 | 22462 | -- | [PDF](https://github.com/AliAhmadi-Software/Federated-Learning-Articles/blob/main/Communication-Efficient%20Learning%20of%20Deep%20Networks%20from%20Decentralized%20Data/Communication-Efficient%20Learning%20of%20Deep%20Networks%20from%20Decentralized%20Data.pdf) |
 | [Paper Title 2](link-to-paper) | Taxonomy | 2022 | 200 | Elsevier | [PDF](pdf-link) |
 | [Paper Title 3](link-to-paper) | Research | 2021 | 90 | Springer | [PDF](pdf-link) |
 
